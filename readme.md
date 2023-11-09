@@ -101,5 +101,3 @@ npm install react
 | Имя  | Фамилия  | Ссылка на генератор таблиц                                          |
 | ---- | -------- | ------------------------------------------------------------------- |
 | Mike | Vorobyev | [Tables Generator](https://www.tablesgenerator.com/markdown_tables) |
-|      |          |                                                                     |
-|      |          |                                                                     |
