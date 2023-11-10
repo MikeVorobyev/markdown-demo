@@ -19,6 +19,10 @@
 > Устремлен в бесконечное.\
 > Наслаждаться прекрасным осенним закатом иду._
 
+<!--YouTube Видео-->
+
+[![](https://i.ytimg.com/vi/rX3W5evpeJE/hqdefault.jpg)](https://www.youtube.com/watch?v=rX3W5evpeJE&t=81s)
+
 <!--Горизонтальные Разделители-->
 
 ---
